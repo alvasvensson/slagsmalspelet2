@@ -1,0 +1,14 @@
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\bin\Debug\net7.0\slagsmalspelet.exe
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\bin\Debug\net7.0\slagsmalspelet.deps.json
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\bin\Debug\net7.0\slagsmalspelet.runtimeconfig.json
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\bin\Debug\net7.0\slagsmalspelet.dll
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\bin\Debug\net7.0\slagsmalspelet.pdb
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.AssemblyInfoInputs.cache
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.AssemblyInfo.cs
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.csproj.CoreCompileInputs.cache
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.dll
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\refint\slagsmalspelet.dll
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.pdb
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\slagsmalspelet.genruntimeconfig.cache
+C:\Users\alva.svensson3\Documents\prog2\slagsmalspelet\slagsmalspelet\obj\Debug\net7.0\ref\slagsmalspelet.dll

@@ -1,6 +1,14 @@
 public class Axe : Weapon
 {
-    public Axe() : base("Axe", 30)
+    Random generator = new Random();
+    public Axe()
     {
+        name = "Axe";
+        dmg = generator.Next(2, 4);
+    }
+
+    public override int Attack()
+    {
+        return 3;
     }
 }

@@ -1,6 +1,6 @@
 public class fighter
 {
-    Random generator = new Random();
+    // Random generator = new Random();
     public int hp;
     public string name;
     public Weapon weapon;
@@ -14,7 +14,8 @@ public class fighter
 
     public void Attack(fighter target)
     {
-        weapon.dmg = generator.Next(4);
+        int dmgDone = weapon.Attack();
+        target.hp -= dmgDone;
     }
 
 }

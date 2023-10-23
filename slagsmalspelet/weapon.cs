@@ -3,9 +3,17 @@ public class Weapon
 
     public int dmg;
     public string name;
-    public Weapon(string nameo, int dmgo)
+    Random generator = new();
+
+    public virtual int Attack()
     {
-        name = nameo;
-        dmg = dmgo;
+        return generator.Next(dmg);
     }
+
+
+    // public Weapon(string nameo, int dmgo)
+    // {
+    //     name = nameo;
+    //     dmg = dmgo;
+    // }
 }
