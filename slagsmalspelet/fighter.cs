@@ -12,10 +12,11 @@ public class fighter
         weapon = choice;
     }
 
-    public void Attack(fighter target)
+    public void Attack(fighter attacker, fighter target)
     {
         int dmgDone = weapon.Attack();
         target.hp -= dmgDone;
+        Console.WriteLine($"{attacker.name} does {dmgDone} to {target.name}, who now has {target.hp}");
     }
 
 }

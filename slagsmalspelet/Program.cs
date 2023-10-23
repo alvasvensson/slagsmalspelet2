@@ -17,16 +17,14 @@ while (Alva.hp > 0 && Helmi.hp > 0)
 {
     if (alvasTurn == true)
     {
-        Alva.Attack(Helmi);
+        Alva.Attack(Alva, Helmi);
         alvasTurn = false;
-        Console.WriteLine($"{Alva.name} does {Alva.weapon.dmg} to {Helmi.name}, who now has {Helmi.hp}");
         Console.ReadLine();
     }
     else if (alvasTurn == false)
     {
-        Helmi.Attack(Alva);
+        Helmi.Attack(Helmi, Alva);
         alvasTurn = true;
-        Console.WriteLine($"{Helmi.name} does {Helmi.weapon.dmg} to {Alva.name}, who now has {Alva.hp}");
         Console.ReadLine();
     }
 

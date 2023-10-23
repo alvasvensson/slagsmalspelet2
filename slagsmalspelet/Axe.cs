@@ -7,8 +7,4 @@ public class Axe : Weapon
         dmg = generator.Next(2, 4);
     }
 
-    public override int Attack()
-    {
-        return 3;
-    }
 }
